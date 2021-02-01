@@ -1,0 +1,27 @@
+body{
+    margin:0;
+}
+
+
+.examples{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.example__block{
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    background-color: green;
+    border: 5px solid black;
+    padding: 20px;
+}
+
+.example__block:last-child{
+    position: relative;
+    top: 100px;
+    right: 0;
+    z-index: 1;
+}
