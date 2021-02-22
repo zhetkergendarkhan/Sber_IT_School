@@ -1,2 +1,2 @@
-let result = Math.ceil(Math.random()*100);
-console.log(result)
+let randomNum = Math.ceil(Math.random()*100);
+console.log(randomNum)
