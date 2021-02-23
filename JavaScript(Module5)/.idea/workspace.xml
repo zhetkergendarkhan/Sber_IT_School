@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e31bdb75-3cb2-4fb0-a84c-3acc697fedb9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/js/Seven_Problem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/Six_Problem.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -41,7 +43,8 @@
       <option name="presentableId" value="Default" />
       <updated>1613980695734</updated>
       <workItem from="1613980696761" duration="2209000" />
-      <workItem from="1613993321292" duration="1991000" />
+      <workItem from="1613993321292" duration="2627000" />
+      <workItem from="1614050388673" duration="1863000" />
     </task>
     <task id="LOCAL-00001" summary="fixing">
       <created>1613981379450</created>
@@ -64,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613988652184</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="5 problem added">
+      <created>1613996373348</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613996373348</updated>
+    </task>
+    <task id="LOCAL-00005" summary="5 problem added">
+      <created>1613996420795</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613996420795</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,16 +91,17 @@
     <MESSAGE value="fixing" />
     <MESSAGE value="css added" />
     <MESSAGE value="folders added" />
-    <option name="LAST_COMMIT_MESSAGE" value="folders added" />
+    <MESSAGE value="5 problem added" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 problem added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="224" y="0" key="CommitChangelistDialog2" timestamp="1613988650923">
+    <state x="224" y="0" key="CommitChangelistDialog2" timestamp="1613996419928">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
-    <state x="224" y="0" key="CommitChangelistDialog2/0.0.1298.768@0.0.1298.768" timestamp="1613988650923" />
-    <state x="241" y="117" key="Vcs.Push.Dialog.v2" timestamp="1613988654377">
+    <state x="224" y="0" key="CommitChangelistDialog2/0.0.1298.768@0.0.1298.768" timestamp="1613996419928" />
+    <state x="241" y="117" key="Vcs.Push.Dialog.v2" timestamp="1613996422847">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
-    <state x="241" y="117" key="Vcs.Push.Dialog.v2/0.0.1298.768@0.0.1298.768" timestamp="1613988654377" />
+    <state x="241" y="117" key="Vcs.Push.Dialog.v2/0.0.1298.768@0.0.1298.768" timestamp="1613996422847" />
   </component>
 </project>
