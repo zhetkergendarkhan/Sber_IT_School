@@ -1,0 +1,9 @@
+body{
+    background-color: #c8c8c8;
+}
+
+.body__title{
+    color: #352626;
+    text-align: center;
+    margin-top: 100px;
+}
