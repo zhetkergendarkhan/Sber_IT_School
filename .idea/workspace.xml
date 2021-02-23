@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1nYijKLScsR9H5PDMWiuL3MDGnS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,10 +32,28 @@
       <workItem from="1611573559457" duration="13565000" />
       <workItem from="1611814808452" duration="9726000" />
       <workItem from="1612149505492" duration="4993000" />
+      <workItem from="1614055913903" duration="414000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="224" y="0" key="CommitChangelistDialog2" timestamp="1614056037894">
+      <screen x="0" y="0" width="1298" height="768" />
+    </state>
+    <state x="224" y="0" key="CommitChangelistDialog2/0.0.1298.768@0.0.1298.768" timestamp="1614056037894" />
   </component>
 </project>
