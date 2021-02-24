@@ -1,15 +1,22 @@
-const userDarkhan={
-    name:"Darkhan",
-    surname:"Zhetkergen",
-    age:19,
-    university:"Kbtu"
+const userDarkhan = {
+    name: "Darkhan",
+    surname: "Zhetkergen",
+    age: 19,
+    university: "Kbtu"
 }
 
-const userDaniyar={
-    name:"Daniyar",
-    surname:"Amangeldi",
-    age:21,
-    university:"Kbtu"
+const userDaniyar=Object.create(userDarkhan)
+userDaniyar.city="Astana"
+
+
+function getOwnProp(obj) {
+    for (let key in obj) {
+        if (obj.hasOwnProperty(key)) {
+            console.log(key, obj[key])
+        }
+    }
 }
 
-console.log(`First User:${userDarkhan.name},Second User:${userDaniyar.name}`)
+
+getOwnProp(userDaniyar)
+/*getOwnProp(userDarkhan)*/
