@@ -2,8 +2,15 @@ const userDarkhan={
     name:"Darkhan",
     surname:"Zhetkergen",
     age:19,
-    university:"Kbtu"
+    university:"Kbtu",
+    getName:function () {
+    console.log(this.name)
+    }
 }
+
+console.log(userDarkhan.getName())
+
+
 
 const userDaniyar={
     name:"Daniyar",
@@ -24,7 +31,7 @@ userBiba.city="Almaty"
 console.log(userDarkhan)
 console.log(userBiba)*/
 
-const person={
+/*const person={
     city:"Almaty"
 }
 
@@ -35,6 +42,25 @@ for (let key in user){
 console.log(key)
 
 }
-console.log(Object.getPrototypeOf(user))
+console.log(Object.getPrototypeOf(user))*/
+
+
+// function Candy(name,weight) {
+//     this.name=name,
+//         this.tasty = 'delicius'
+// }
+//
+// Candy.prototype.getWeight=function (name,weight){
+//     console.log(`Weight of ${name} is ${weight} gramm and it is very ${this.tasty} `)
+// }
+//
+//
+// const twix= new Candy()
+// const snickers= new Candy()
+//
+//
+// twix.getWeight("Twix",47)
+// snickers.getWeight("Snickers",50)
+
 
 

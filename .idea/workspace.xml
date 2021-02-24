@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55a90f95-727a-4e25-9fdc-739c8ed1c466" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaScript(Module7)/js/Example.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript(Module7)/js/Second_Problem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript(Module7)/js/Third_Problem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript(Module7)/js/Fourth_Problem.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript(Module5)/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript(Module5)/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript(Module6)/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript(Module6)/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaScript(Module7)/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript(Module7)/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript(Module7)/js/First_Problem.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript(Module7)/js/First_Problem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript(Module7)/js/Example.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript(Module7)/js/Example.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +37,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Node.js.Example.js">
@@ -70,7 +67,7 @@
       <workItem from="1612149505492" duration="4993000" />
       <workItem from="1614055913903" duration="8898000" />
       <workItem from="1614135997903" duration="1034000" />
-      <workItem from="1614137035819" duration="4343000" />
+      <workItem from="1614137035819" duration="11962000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <created>1614137657314</created>
@@ -79,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614137657314</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1,2,3 problems of module 7 added">
+      <created>1614141447765</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614141447765</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,40 +104,45 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="1,2,3 problems of module 7 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="1,2,3 problems of module 7 added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="379" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614136072070">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
     <state x="379" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1298.768@0.0.1298.768" timestamp="1614136072070" />
-    <state x="224" y="0" key="CommitChangelistDialog2" timestamp="1614137654990">
+    <state x="224" y="0" key="CommitChangelistDialog2" timestamp="1614141446143">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
-    <state x="224" y="0" key="CommitChangelistDialog2/0.0.1298.768@0.0.1298.768" timestamp="1614137654990" />
+    <state x="224" y="0" key="CommitChangelistDialog2/0.0.1298.768@0.0.1298.768" timestamp="1614141446143" />
     <state x="429" y="139" key="FileChooserDialogImpl" timestamp="1614137033137">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
     <state x="429" y="139" key="FileChooserDialogImpl/0.0.1298.768@0.0.1298.768" timestamp="1614137033137" />
-    <state width="1277" height="2" key="GridCell.Tab.0.bottom" timestamp="1614140386624">
+    <state width="1277" height="244" key="GridCell.Tab.0.bottom" timestamp="1614142734491">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
-    <state width="1277" height="2" key="GridCell.Tab.0.bottom/0.0.1298.768@0.0.1298.768" timestamp="1614140386624" />
-    <state width="1277" height="2" key="GridCell.Tab.0.center" timestamp="1614140386623">
+    <state width="1277" height="244" key="GridCell.Tab.0.bottom/0.0.1298.768@0.0.1298.768" timestamp="1614142734491" />
+    <state width="1277" height="244" key="GridCell.Tab.0.center" timestamp="1614142734490">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
-    <state width="1277" height="2" key="GridCell.Tab.0.center/0.0.1298.768@0.0.1298.768" timestamp="1614140386623" />
-    <state width="1277" height="2" key="GridCell.Tab.0.left" timestamp="1614140386623">
+    <state width="1277" height="244" key="GridCell.Tab.0.center/0.0.1298.768@0.0.1298.768" timestamp="1614142734490" />
+    <state width="1277" height="244" key="GridCell.Tab.0.left" timestamp="1614142734490">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
-    <state width="1277" height="2" key="GridCell.Tab.0.left/0.0.1298.768@0.0.1298.768" timestamp="1614140386623" />
-    <state width="1277" height="2" key="GridCell.Tab.0.right" timestamp="1614140386623">
+    <state width="1277" height="244" key="GridCell.Tab.0.left/0.0.1298.768@0.0.1298.768" timestamp="1614142734490" />
+    <state width="1277" height="244" key="GridCell.Tab.0.right" timestamp="1614142734491">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
-    <state width="1277" height="2" key="GridCell.Tab.0.right/0.0.1298.768@0.0.1298.768" timestamp="1614140386623" />
-    <state x="241" y="117" key="Vcs.Push.Dialog.v2" timestamp="1614137660781">
+    <state width="1277" height="244" key="GridCell.Tab.0.right/0.0.1298.768@0.0.1298.768" timestamp="1614142734491" />
+    <state x="150" y="29" key="SettingsEditor" timestamp="1614149908151">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
-    <state x="241" y="117" key="Vcs.Push.Dialog.v2/0.0.1298.768@0.0.1298.768" timestamp="1614137660781" />
+    <state x="150" y="29" key="SettingsEditor/0.0.1298.768@0.0.1298.768" timestamp="1614149908151" />
+    <state x="241" y="117" key="Vcs.Push.Dialog.v2" timestamp="1614141448653">
+      <screen x="0" y="0" width="1298" height="768" />
+    </state>
+    <state x="241" y="117" key="Vcs.Push.Dialog.v2/0.0.1298.768@0.0.1298.768" timestamp="1614141448653" />
   </component>
 </project>
