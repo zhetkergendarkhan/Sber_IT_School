@@ -2,9 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55a90f95-727a-4e25-9fdc-739c8ed1c466" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaScript(Module7)/js/Fifth_Problem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/js/Example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript(Module9)/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript(Module9)/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript(Module9)/js/1_problem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript(Module9)/js/2_problem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript(Module9)/js/3_problem/3_problem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript(Module9)/js/3_problem/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript(Module9)/js/3_problem/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript(Module9)/js/4_problem/4_problem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript(Module9)/js/4_problem/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript(Module9)/js/4_problem/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript(Module9)/js/5_problem/5_problem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript(Module9)/js/5_problem/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript(Module9)/js/5_problem/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript(Module9)/js/Example.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript(Module7)/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript(Module7)/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +50,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SelfStudy/react/examples" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavaScript(Module9)/js/3_problem" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.Example.js">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Darkhan\Desktop\SkillFactory\Sber_IT_School\JavaScript(Module9)\js\3_problem" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.Example.js (1)">
+    <configuration name="Example.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript(Module9)/js/Example.js" working-dir="$PROJECT_DIR$/JavaScript(Module9)/js">
+      <method v="2" />
+    </configuration>
     <configuration name="Example.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript(Module7)/js/Example.js" working-dir="$PROJECT_DIR$/JavaScript(Module7)/js">
       <method v="2" />
     </configuration>
@@ -48,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Example.js (1)" />
         <item itemvalue="Node.js.Example.js" />
         <item itemvalue="Node.js.Second_Problem.js" />
       </list>
@@ -68,7 +92,9 @@
       <workItem from="1614135997903" duration="1034000" />
       <workItem from="1614137035819" duration="12023000" />
       <workItem from="1614170586462" duration="65000" />
-      <workItem from="1614233149579" duration="474000" />
+      <workItem from="1614233149579" duration="1918000" />
+      <workItem from="1614585733660" duration="69000" />
+      <workItem from="1614837758194" duration="11040000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <created>1614137657314</created>
@@ -91,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614154789228</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="5 problem of module 7 added">
+      <created>1614233680377</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614233680377</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,45 +147,50 @@
     <MESSAGE value="fix" />
     <MESSAGE value="1,2,3 problems of module 7 added" />
     <MESSAGE value="4 problem of module 7 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 problem of module 7 added" />
+    <MESSAGE value="5 problem of module 7 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 problem of module 7 added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="379" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614136072070">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
     <state x="379" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1298.768@0.0.1298.768" timestamp="1614136072070" />
-    <state x="224" y="0" key="CommitChangelistDialog2" timestamp="1614154787557">
+    <state x="224" y="0" key="CommitChangelistDialog2" timestamp="1614233678126">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
-    <state x="224" y="0" key="CommitChangelistDialog2/0.0.1298.768@0.0.1298.768" timestamp="1614154787557" />
+    <state x="224" y="0" key="CommitChangelistDialog2/0.0.1298.768@0.0.1298.768" timestamp="1614233678126" />
     <state x="429" y="139" key="FileChooserDialogImpl" timestamp="1614170653163">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
     <state x="429" y="139" key="FileChooserDialogImpl/0.0.1298.768@0.0.1298.768" timestamp="1614170653163" />
-    <state width="1277" height="2" key="GridCell.Tab.0.bottom" timestamp="1614154817689">
+    <state width="1277" height="173" key="GridCell.Tab.0.bottom" timestamp="1614848626523">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
-    <state width="1277" height="2" key="GridCell.Tab.0.bottom/0.0.1298.768@0.0.1298.768" timestamp="1614154817689" />
-    <state width="1277" height="2" key="GridCell.Tab.0.center" timestamp="1614154817689">
+    <state width="1277" height="173" key="GridCell.Tab.0.bottom/0.0.1298.768@0.0.1298.768" timestamp="1614848626523" />
+    <state width="1277" height="173" key="GridCell.Tab.0.center" timestamp="1614848626523">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
-    <state width="1277" height="2" key="GridCell.Tab.0.center/0.0.1298.768@0.0.1298.768" timestamp="1614154817689" />
-    <state width="1277" height="2" key="GridCell.Tab.0.left" timestamp="1614154817689">
+    <state width="1277" height="173" key="GridCell.Tab.0.center/0.0.1298.768@0.0.1298.768" timestamp="1614848626523" />
+    <state width="1277" height="173" key="GridCell.Tab.0.left" timestamp="1614848626522">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
-    <state width="1277" height="2" key="GridCell.Tab.0.left/0.0.1298.768@0.0.1298.768" timestamp="1614154817689" />
-    <state width="1277" height="2" key="GridCell.Tab.0.right" timestamp="1614154817689">
+    <state width="1277" height="173" key="GridCell.Tab.0.left/0.0.1298.768@0.0.1298.768" timestamp="1614848626522" />
+    <state width="1277" height="173" key="GridCell.Tab.0.right" timestamp="1614848626523">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
-    <state width="1277" height="2" key="GridCell.Tab.0.right/0.0.1298.768@0.0.1298.768" timestamp="1614154817689" />
+    <state width="1277" height="173" key="GridCell.Tab.0.right/0.0.1298.768@0.0.1298.768" timestamp="1614848626523" />
     <state x="150" y="29" key="SettingsEditor" timestamp="1614170627723">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
     <state x="150" y="29" key="SettingsEditor/0.0.1298.768@0.0.1298.768" timestamp="1614170627723" />
-    <state x="241" y="117" key="Vcs.Push.Dialog.v2" timestamp="1614154792980">
+    <state x="241" y="117" key="Vcs.Push.Dialog.v2" timestamp="1614233682199">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
-    <state x="241" y="117" key="Vcs.Push.Dialog.v2/0.0.1298.768@0.0.1298.768" timestamp="1614154792980" />
+    <state x="241" y="117" key="Vcs.Push.Dialog.v2/0.0.1298.768@0.0.1298.768" timestamp="1614233682199" />
+    <state x="305" y="172" key="run.anything.popup" timestamp="1614839235344">
+      <screen x="0" y="0" width="1298" height="768" />
+    </state>
+    <state x="305" y="172" key="run.anything.popup/0.0.1298.768@0.0.1298.768" timestamp="1614839235344" />
     <state x="312" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1614233600524">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
