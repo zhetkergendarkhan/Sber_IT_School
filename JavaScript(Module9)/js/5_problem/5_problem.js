@@ -21,7 +21,7 @@ btn.addEventListener('click',()=>{
                 return response.json()
             })
             .then(res=>{
-                let a = '';
+                 let a = '';
                 res.forEach(item => {
                     const card =
                         `<div>

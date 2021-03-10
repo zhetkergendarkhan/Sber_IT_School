@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e31bdb75-3cb2-4fb0-a84c-3acc697fedb9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/js/Eight_Problem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1opPjlW1VEDJfd0TWMvgovL9S9j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e31bdb75-3cb2-4fb0-a84c-3acc697fedb9" name="Default Changelist" comment="" />
+      <created>1613980695734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613980695734</updated>
+      <workItem from="1613980696761" duration="2209000" />
+      <workItem from="1613993321292" duration="2627000" />
+      <workItem from="1614050388673" duration="3135000" />
+    </task>
+    <task id="LOCAL-00001" summary="fixing">
+      <created>1613981379450</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613981379450</updated>
+    </task>
+    <task id="LOCAL-00002" summary="css added">
+      <created>1613988584956</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613988584956</updated>
+    </task>
+    <task id="LOCAL-00003" summary="folders added">
+      <created>1613988652184</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613988652184</updated>
+    </task>
+    <task id="LOCAL-00004" summary="5 problem added">
+      <created>1613996373348</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613996373348</updated>
+    </task>
+    <task id="LOCAL-00005" summary="5 problem added">
+      <created>1613996420795</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613996420795</updated>
+    </task>
+    <task id="LOCAL-00006" summary="6,7 problems added">
+      <created>1614052330964</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614052330964</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixing" />
+    <MESSAGE value="css added" />
+    <MESSAGE value="folders added" />
+    <MESSAGE value="5 problem added" />
+    <MESSAGE value="6,7 problems added" />
+    <option name="LAST_COMMIT_MESSAGE" value="6,7 problems added" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="224" y="0" key="CommitChangelistDialog2" timestamp="1614052329063">
+      <screen x="0" y="0" width="1298" height="768" />
+    </state>
+    <state x="224" y="0" key="CommitChangelistDialog2/0.0.1298.768@0.0.1298.768" timestamp="1614052329063" />
+    <state x="241" y="117" key="Vcs.Push.Dialog.v2" timestamp="1614052335942">
+      <screen x="0" y="0" width="1298" height="768" />
+    </state>
+    <state x="241" y="117" key="Vcs.Push.Dialog.v2/0.0.1298.768@0.0.1298.768" timestamp="1614052335942" />
+  </component>
+</project>

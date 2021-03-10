@@ -1,0 +1,10 @@
+.square{
+    width: 150px;
+    height: 150px;
+    background-color: #2a1299;
+    border-radius: 50%;
+}
+
+body{
+    background-color: floralwhite;
+}
