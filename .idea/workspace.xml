@@ -2,29 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55a90f95-727a-4e25-9fdc-739c8ed1c466" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaScript(Module10)/1_problem/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript(Module10)/1_problem/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript(Module10)/1_problem/js/first.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript(Module10)/2_problem/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript(Module10)/2_problem/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript(Module10)/2_problem/js/first.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript(Module10)/3_problem/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript(Module10)/3_problem/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript(Module10)/3_problem/js/first.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript(Module10)/example/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript(Module10)/example/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript(Module10)/example/js/first.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dragAndDrop/.idea/JavaScript(Module5).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dragAndDrop/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dragAndDrop/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dragAndDrop/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dragAndDrop/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dragAndDrop/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dragAndDrop/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dragAndDrop/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/countDown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/countDown.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/sum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/sum.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts/example.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript(Module7)/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript(Module7)/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript(Module9)/js/5_problem/5_problem.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript(Module9)/js/5_problem/5_problem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Example/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/js/Example.js" beforeDir="false" afterPath="$PROJECT_DIR$/Example/js/Example.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_1/day2/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/week_1/day2/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="TypeScript File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -53,10 +42,12 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavaScript(Module9)/js/3_problem" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SelfStudy/Scout-App/Scout-App.exe" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/testing/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -64,7 +55,21 @@
       <recent name="C:\Users\Darkhan\Desktop\SkillFactory\Sber_IT_School\JavaScript(Module9)\js\3_problem" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Example.js (1)">
+  <component name="RunManager" selected="Jest.count down.count down numbers 7">
+    <configuration name="count down.count down numbers 7" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/testing/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$/testing" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/testing/countDown.test.js" />
+      <test-names>
+        <test-name value="count down" />
+        <test-name value="count down numbers 7" />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <configuration name="Example.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript(Module9)/js/Example.js" working-dir="$PROJECT_DIR$/JavaScript(Module9)/js">
       <method v="2" />
     </configuration>
@@ -74,8 +79,13 @@
     <configuration name="Second_Problem.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript(Module6)/js/Second_Problem.js" working-dir="$PROJECT_DIR$/JavaScript(Module6)/js">
       <method v="2" />
     </configuration>
+    <configuration name="countDown.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/testing/countDown.js" working-dir="$PROJECT_DIR$/testing">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.count down.count down numbers 7" />
+        <item itemvalue="Node.js.countDown.js" />
         <item itemvalue="Node.js.Example.js (1)" />
         <item itemvalue="Node.js.Example.js" />
         <item itemvalue="Node.js.Second_Problem.js" />
@@ -102,7 +112,10 @@
       <workItem from="1614837758194" duration="11577000" />
       <workItem from="1614960181317" duration="2544000" />
       <workItem from="1615275957723" duration="5613000" />
-      <workItem from="1615363073585" duration="3847000" />
+      <workItem from="1615363073585" duration="5043000" />
+      <workItem from="1615538190111" duration="1781000" />
+      <workItem from="1615877847471" duration="5988000" />
+      <workItem from="1615890268822" duration="733000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <created>1614137657314</created>
@@ -139,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614879476974</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="10 module added">
+      <created>1615370065753</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615370065753</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,45 +184,62 @@
     <MESSAGE value="4 problem of module 7 added" />
     <MESSAGE value="5 problem of module 7 added" />
     <MESSAGE value="9 module added" />
-    <option name="LAST_COMMIT_MESSAGE" value="9 module added" />
+    <MESSAGE value="10 module added" />
+    <option name="LAST_COMMIT_MESSAGE" value="10 module added" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="103" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615878027551">
+      <screen x="0" y="0" width="1298" height="768" />
+    </state>
+    <state x="103" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1298.768@0.0.1298.768" timestamp="1615878027551" />
+    <state x="428" y="92" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1615541318923">
+      <screen x="0" y="0" width="1298" height="768" />
+    </state>
+    <state x="428" y="92" key="#com.intellij.ide.macro.MacrosDialog/0.0.1298.768@0.0.1298.768" timestamp="1615541318923" />
     <state x="379" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614136072070">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
     <state x="379" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1298.768@0.0.1298.768" timestamp="1614136072070" />
-    <state x="224" y="0" key="CommitChangelistDialog2" timestamp="1614879471913">
+    <state x="224" y="0" key="CommitChangelistDialog2" timestamp="1615370060694">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
-    <state x="224" y="0" key="CommitChangelistDialog2/0.0.1298.768@0.0.1298.768" timestamp="1614879471913" />
-    <state x="429" y="139" key="FileChooserDialogImpl" timestamp="1614170653163">
+    <state x="224" y="0" key="CommitChangelistDialog2/0.0.1298.768@0.0.1298.768" timestamp="1615370060694" />
+    <state x="322" y="183" key="EditFileWatcherDialog" timestamp="1615541373330">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
-    <state x="429" y="139" key="FileChooserDialogImpl/0.0.1298.768@0.0.1298.768" timestamp="1614170653163" />
-    <state width="1277" height="173" key="GridCell.Tab.0.bottom" timestamp="1614879954342">
+    <state x="322" y="183" key="EditFileWatcherDialog/0.0.1298.768@0.0.1298.768" timestamp="1615541373330" />
+    <state x="429" y="139" key="FileChooserDialogImpl" timestamp="1615541372070">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
-    <state width="1277" height="173" key="GridCell.Tab.0.bottom/0.0.1298.768@0.0.1298.768" timestamp="1614879954342" />
-    <state width="1277" height="173" key="GridCell.Tab.0.center" timestamp="1614879954341">
+    <state x="429" y="139" key="FileChooserDialogImpl/0.0.1298.768@0.0.1298.768" timestamp="1615541372070" />
+    <state width="1277" height="192" key="GridCell.Tab.0.bottom" timestamp="1615890974389">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
-    <state width="1277" height="173" key="GridCell.Tab.0.center/0.0.1298.768@0.0.1298.768" timestamp="1614879954341" />
-    <state width="1277" height="173" key="GridCell.Tab.0.left" timestamp="1614879954340">
+    <state width="1277" height="192" key="GridCell.Tab.0.bottom/0.0.1298.768@0.0.1298.768" timestamp="1615890974389" />
+    <state width="1277" height="192" key="GridCell.Tab.0.center" timestamp="1615890974389">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
-    <state width="1277" height="173" key="GridCell.Tab.0.left/0.0.1298.768@0.0.1298.768" timestamp="1614879954340" />
-    <state width="1277" height="173" key="GridCell.Tab.0.right" timestamp="1614879954341">
+    <state width="1277" height="192" key="GridCell.Tab.0.center/0.0.1298.768@0.0.1298.768" timestamp="1615890974389" />
+    <state width="1277" height="192" key="GridCell.Tab.0.left" timestamp="1615890974389">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
-    <state width="1277" height="173" key="GridCell.Tab.0.right/0.0.1298.768@0.0.1298.768" timestamp="1614879954341" />
+    <state width="1277" height="192" key="GridCell.Tab.0.left/0.0.1298.768@0.0.1298.768" timestamp="1615890974389" />
+    <state width="1277" height="192" key="GridCell.Tab.0.right" timestamp="1615890974389">
+      <screen x="0" y="0" width="1298" height="768" />
+    </state>
+    <state width="1277" height="192" key="GridCell.Tab.0.right/0.0.1298.768@0.0.1298.768" timestamp="1615890974389" />
+    <state x="420" y="90" key="RollbackChangesDialog" timestamp="1615541818485">
+      <screen x="0" y="0" width="1298" height="768" />
+    </state>
+    <state x="420" y="90" key="RollbackChangesDialog/0.0.1298.768@0.0.1298.768" timestamp="1615541818485" />
     <state x="150" y="29" key="SettingsEditor" timestamp="1615366679054">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
     <state x="150" y="29" key="SettingsEditor/0.0.1298.768@0.0.1298.768" timestamp="1615366679054" />
-    <state x="241" y="117" key="Vcs.Push.Dialog.v2" timestamp="1614879477708">
+    <state x="241" y="117" key="Vcs.Push.Dialog.v2" timestamp="1615370065685">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
-    <state x="241" y="117" key="Vcs.Push.Dialog.v2/0.0.1298.768@0.0.1298.768" timestamp="1614879477708" />
+    <state x="241" y="117" key="Vcs.Push.Dialog.v2/0.0.1298.768@0.0.1298.768" timestamp="1615370065685" />
     <state x="305" y="172" key="run.anything.popup" timestamp="1614839235344">
       <screen x="0" y="0" width="1298" height="768" />
     </state>

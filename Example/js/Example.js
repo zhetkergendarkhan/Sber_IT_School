@@ -62,4 +62,10 @@ btnNode.addEventListener('click', () => {
     useRequest('https://picsum.photos/v2/list/?limit=5', displayResult);
 })
 
+btnPlus=document.querySelector(".btn_plus")
+btnMinus=document.querySelector(".btn_minus")
+
+btnPlus.addEventListener('click',(e)=>console.log(e=e+1))
+btnMinus.addEventListener('click',(e)=>console.log(e=e-1))
+
 
